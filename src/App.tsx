@@ -1,10 +1,11 @@
+import Layout from "./Layout";
 
 const App = () => {
   return (
-    <div className="text-yellow-500">
-     Lets create an excellent portfolioooo!
+    <div className="">
+      <Layout />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
