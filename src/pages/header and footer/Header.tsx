@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <nav className="flex justify-around items-center w-[70%] p-3">
+    <nav className="flex fixed justify-around items-center w-[70%] p-3 bg-white rounded-lg">
       <a className="font-bold text-gray-500 hover:text-gray-700 transition-all duration-300 cursor-pointer ">
         Home
       </a>
