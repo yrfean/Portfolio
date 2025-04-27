@@ -1,3 +1,10 @@
+const roles = [
+  "Software Developer",
+  "Fullstack Developer",
+  "Frontend Developer",
+  "Backend Developer",
+];
+
 const Home = () => {
   return (
     <div className="w-screen h-full flex items-center justify-center">
@@ -7,6 +14,6 @@ const Home = () => {
       <p>Software developer</p>
     </div>
   );
-}
+};
 
 export default Home;
