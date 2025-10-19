@@ -73,7 +73,7 @@ const Home = () => {
 
       <div className="flex flex-wrap items-center justify-center gap-4">
         <a
-          href="/Irfan-Ashraf-MERNstack-developer.pdf"
+          href="/Irfan-Ashraf.pdf"
           download
           className="rounded-full bg-gray-900 px-6 py-3 text-sm font-semibold text-white transition hover:bg-gray-700"
         >
