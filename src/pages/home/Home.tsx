@@ -13,7 +13,7 @@ const roles = [
 const socialLinks = [
   {
     label: "GitHub",
-    href: "https://github.com/yrfean",
+    href: "https://github.com/yrfanashraf",
   },
   {
     label: "LinkedIn",

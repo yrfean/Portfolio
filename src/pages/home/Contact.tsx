@@ -31,7 +31,7 @@ const Contact = () => {
 
         <div className="mt-4 flex flex-wrap justify-center gap-4 sm:justify-start">
           <a
-            href="https://github.com/yrfean"
+            href="https://github.com/yrfanashraf"
             target="_blank"
             rel="noreferrer"
             className="rounded-full border border-white/30 px-5 py-2 text-sm font-semibold text-white transition hover:border-white/60 hover:text-gray-100"
